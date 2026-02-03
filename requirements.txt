@@ -1,0 +1,15 @@
+numpy>=1.23
+pandas>=2.0
+matplotlib>=3.7
+openpyxl>=3.1
+
+# task1.ipynb (coverage + optimization)
+shapely>=2.0
+imageio>=2.31
+torch>=2.0
+
+# task2.ipynb (linear programming)
+pulp>=2.8
+
+# Needed for running notebooks in VS Code / Jupyter kernels
+ipykernel>=6.0
